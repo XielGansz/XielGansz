@@ -4,7 +4,7 @@
   <a href="https://wa.me/6281319868981"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/Xzer01"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/FakhriGansz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://github.com/FakhriGansz"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /> 
 </p>
 
 ### [`MY BIO`](https://fakhrigansz.ddns.net/)
