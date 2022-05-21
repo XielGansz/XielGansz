@@ -7,7 +7,7 @@
   <a href="https://github.com/FakhriGansz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 </p>
 
-### [`MY BIO`](https://fakhrigansz.ddns/)
+### [`MY BIO`](https://fakhrigansz.ddns.net/)
 ```
 Intro = {
 "Full Name": "Fakhri Awail",
