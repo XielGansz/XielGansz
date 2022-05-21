@@ -14,8 +14,8 @@ Intro = {
 "Nick name": "FakhriGansz",
 "Status": "Student",
 "Address": "Jakarta",
-"Age": "16",
-"Birthday": "13 February 2006"
+"Age": "-",
+"Birthday": "13 February"
 }
 ```
 <details>
