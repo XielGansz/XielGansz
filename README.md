@@ -16,7 +16,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=ffffff)&nbsp;
 ![Node.Js](https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Golang](https://img.shields.io/badge/-Go%20language-05122A?style=flat&logo=go)&nbsp;
